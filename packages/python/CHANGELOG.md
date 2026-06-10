@@ -1,5 +1,11 @@
 # @vercel/python
 
+## 6.44.1
+
+### Patch Changes
+
+- 4637f0a: Force Python bytecode precompilation to rewrite existing `.pyc` files with unchecked-hash invalidation.
+
 ## 6.44.0
 
 ### Minor Changes
